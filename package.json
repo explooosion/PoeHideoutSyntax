@@ -1,0 +1,41 @@
+{
+    "name": "poe-hideout-syntax",
+    "displayName": "POE HideOut",
+    "description": "Syntax support for POE hideout.",
+    "version": "0.1.0",
+    "license": "MIT",
+    "author": "Robby",
+    "publisher": "robby",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Formatters"
+    ],
+    "icon": "images/logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/explooosion/PoeHideOutSyntax"
+    },
+    "bugs": {
+        "url": "https://github.com/explooosion/PoeHideOutSyntax/issues"
+    },
+    "contributes": {
+        "languages": [{
+            "id": "hideout",
+            "aliases": [
+                "Hideout",
+                "hideout"
+            ],
+            "extensions": [
+                ".hideout"
+            ],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "hideout",
+            "scopeName": "source.hideout",
+            "path": "./syntaxes/hideout.tmLanguage.json"
+        }]
+    }
+}
