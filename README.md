@@ -1,8 +1,7 @@
 # POE Hideout Syntax
 
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/ages-18.svg)](https://forthebadge.com)
+[![GitHub license](https://img.shields.io/github/license/explooosion/Agm-Direction.svg)](https://github.com/explooosion/Agm-Direction)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 Github：[POE Hideout Syntax](https://github.com/explooosion/PoeHideoutSyntax.git)
 
