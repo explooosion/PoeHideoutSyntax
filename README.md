@@ -5,7 +5,7 @@
 
 Github：[POE Hideout Syntax](https://github.com/explooosion/PoeHideoutSyntax.git)
 
-Vscode Market：[POE Hideout Syntax](https://marketplace.visualstudio.com/items?itemName=robby.poe-hideout)
+Vscode Market：[POE Hideout Syntax](https://marketplace.visualstudio.com/items?itemName=robby.poe-hideout-syntax)
 
 -------
 
